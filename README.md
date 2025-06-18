@@ -1,7 +1,7 @@
 ## 📊 Informações:
 <!-- Github Status -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=oj0rel&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" width="48%" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=oj0rel&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false" width="48%" height="200">
   <img src="https://nirzak-streak-stats.vercel.app/?user=oj0rel&theme=codeSTACKr&hide_border=true" width="48%" height="200">
 </p>
 
